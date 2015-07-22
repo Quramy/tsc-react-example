@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "umd",
+    "noImplicitAny": true,
+    "jsx": "react"
+  },
+  "files":[
+    "bootstrap.ts",
+    "main.tsx",
+    "todoItem.tsx"
+  ]
+}
