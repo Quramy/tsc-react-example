@@ -1,5 +1,6 @@
 /// <reference path="../typings/bundle.d.ts" />
 
 import * as React from 'react';
+import * as ReactDOM from 'react-dom';
 import {Main} from './main';
-React.render(React.createElement(Main), document.getElementById('main'));
+ReactDOM.render(React.createElement(Main), document.getElementById('main'));
