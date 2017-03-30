@@ -1,5 +1,7 @@
 # tsc-react-example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Quramy/tsc-react-example.svg)](https://greenkeeper.io/)
+
 This is a sample repository to compile React JSX with TypeScript.
 
 # Build
