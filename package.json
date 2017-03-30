@@ -2,14 +2,14 @@
   "name": "tsc-react-example",
   "version": "1.0.0",
   "dependencies": {
-    "react": "^0.14.3",
-    "react-dom": "^0.14.3"
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
   },
   "devDependencies": {
-    "browserify": "^12.0.1",
+    "browserify": "^14.1.0",
     "del": "^2.2.0",
     "gulp": "^3.9.0",
-    "gulp-typescript": "^2.8.0",
+    "gulp-typescript": "^3.1.6",
     "typescript": "next",
     "vinyl-source-stream": "^1.1.0"
   }
